@@ -1,4 +1,4 @@
-//Thalia Villalobs
+//Thalia Villalobos, Maria Chombo Garcia
 //10 Nov 2015
 //Camel game
 
